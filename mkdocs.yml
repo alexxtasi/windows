@@ -78,7 +78,6 @@ nav:
         - client/compatibility.md
         - Εγκατάσταση:
           - client/installation/index.md
-          - client/installation/rufus.md
           - client/installation/manual/index.md
           - client/installation/unattended/index.md
         - client/basic-settings/index.md
